@@ -5,21 +5,21 @@ I've always loved problem-solving, and I'm now channeling that passion into lear
 ---
 
 ## 🧰 Tech Stack
-💻 Java, JavaScript, Python <br>
-⚛️ React, Node.js, Express <br>
-🗄️ SQL, MongoDB <br>
-🧠 Currently learning: Machine Learning & Neural Networks <br>
+💻 Java, JavaScript, Python, C++<br>
+⚛️ React, Node.js, Express, Spring Boot <br>
+🗄️ PostgreSQL, MongoDB <br>
 
 ---
 
 ## 🎓 Currently
 📘 Studying full-time at Maynooth (CS & Software Eng) <br>
 🏋️‍♂️ Working part-time as a cook <br>
-🧠 Learning Python and Machine Learning <br>
-🔍 Looking for a work placement in **Software Development** or **Machine Learning** for 2026 <br>
+🔍 Looking for a work placement in **Software Engineering** for 2026 <br>
 
 ---
 
 ## 🚀 Projects
+🗓️ **Skeddy** - Full stack scheduling application for employers to schedule employees and manage holidays. <br>
+🐥 **Flock** - Full stack social media app for students to discuss their courses. <br>
 🧑‍🍳 **Finn's Takeaway: The Game** — Expanding my JavaScript skills and learning the Phaser framework through game development. <br>
-⌨️ **Typing Speed CLI** — A simple command-line program written in Java to test and track a user's typing speed. <br>
+
